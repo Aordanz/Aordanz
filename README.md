@@ -4,14 +4,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDcweTBwdjlzMjRybzdwNXNna3NuanNvZmJzOGh5dXl6YmN4b24yayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CiZ9e5IUPqeVFzc8Mp/giphy.gif" alt="Death Sentence" width="500">
-</p>
-<hr>
-## Heading 2
- 
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)   
+</p>   
 
 <hr>
 
