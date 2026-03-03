@@ -4,8 +4,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDcweTBwdjlzMjRybzdwNXNna3NuanNvZmJzOGh5dXl6YmN4b24yayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CiZ9e5IUPqeVFzc8Mp/giphy.gif" alt="Death Sentence" width="500">
-</p>   
-
+</p>
 <hr>
 
 ## 💡 About Me
@@ -41,8 +40,27 @@
 <hr>
 
 ## 📊 GitHub Stats
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aordanz&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aordanz&theme=radical&layout=compact&hide_border=false" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aordanz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aordanz&theme=radical&layout=compact" alt="Top Languages" height="180" />
 </p>
+
+<hr>
+
+## Game PacMan
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<hr>
+
+## 📱 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aordanz?igsh=ZXM5azQ1dm9mejV0)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jordanamadeoh@gmail.com)
+
