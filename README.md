@@ -9,10 +9,10 @@
 
 ## 💡 About Me
 
-* 🎓 Mahasiswa aktif di **Fasilkom-TI USU**
-* 🌱 Sedang belajar **Pengembangan Web, Basis Data, dan Algoritma**
+* 🎓 Mahasiswa yang aktif di **Fasilkom-TI USU**
+* 📖 Mempelajari **Pengembangan Web, Basis Data, dan Algoritma**
 * ✨ Tertarik pada UI/UX, Backend Development, dan Pengolahan Data
-* 🎯 Tujuan Saya Menjadi Software Engineer
+* ☁️ Mimpi Saya Adalah Menjadi Software Engineer 
 
 <hr>
 
